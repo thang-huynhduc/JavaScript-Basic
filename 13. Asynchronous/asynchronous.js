@@ -7,7 +7,7 @@
  * 4. Async/await.
  * 5. Event Loop.
  */
-// 1. Async - Bất đồng bộ trong JavaScript
+// Part 1. Async - Bất đồng bộ trong JavaScript
 
 // Bài toán đồng bộ là gì: Synchronous
 console.log('Dòng 1 chạy trước')
